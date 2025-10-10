@@ -70,7 +70,9 @@ To continue building and deploying real-world solutions that solve practical pro
 
 ---
 
-### 📈 Contribution Activity
+---
+
+## ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-121212.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <div align="center">
   
@@ -82,7 +84,8 @@ To continue building and deploying real-world solutions that solve practical pro
 
 ---
 
-## 🏆 GitHub Trophies
+## ![GitHub Trophies](https://img.shields.io/badge/GitHub_Trophies-121212.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=Ahmed-Abubakar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
