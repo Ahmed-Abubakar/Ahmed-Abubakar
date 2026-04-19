@@ -74,28 +74,13 @@ To continue building and deploying real-world solutions that solve practical pro
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://www.credly.com/badges/431c0529-c845-42ab-b8aa-837ee1ebcd04/public_url" target="_blank">
-        <img src="https://images.credly.com/badges/431c0529-c845-42ab-b8aa-837ee1ebcd04/image.png" width="140" alt="AWS Educate Badge" />
-      </a>
-      <br/>
-      <sub><b>AWS Educate Certified</b></sub>
-      <br/>
-      <sub>
-        <a href="https://www.credly.com/badges/431c0529-c845-42ab-b8aa-837ee1ebcd04/public_url">
-          <img src="https://img.shields.io/badge/Verify-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Verify Badge"/>
-        </a>
-      </sub>
-    </td>
-  </tr>
-</table>
+<a href="https://www.credly.com/badges/431c0529-c845-42ab-b8aa-837ee1ebcd04/public_url" target="_blank">
+  <img src="./assets/aws-educate-badge.png" width="138" alt="AWS Educate Badge" />
+</a>
 
 </div>
 
 ---
-
 ## ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-121212.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <div align="center">
