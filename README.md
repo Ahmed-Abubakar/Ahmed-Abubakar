@@ -75,7 +75,7 @@ To continue building and deploying real-world solutions that solve practical pro
 <div align="center">
 
 <a href="https://www.credly.com/badges/431c0529-c845-42ab-b8aa-837ee1ebcd04/public_url" target="_blank">
-  <img src="./assets/aws-educate-introduction-to-generative-ai-training-.png" width="138" alt="AWS Educate Badge" />
+  <img src="./assets/aws-educate-introduction-to-generative-ai-training- (1).png" width="138" alt="AWS Educate Badge" />
 </a>
 
 </div>
