@@ -70,6 +70,30 @@ To continue building and deploying real-world solutions that solve practical pro
 
 ---
 
+## ![AWS Educate Badges](https://img.shields.io/badge/AWS_Educate_Badges-121212.svg?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/431c0529-c845-42ab-b8aa-837ee1ebcd04/public_url" target="_blank">
+        <img src="https://images.credly.com/badges/431c0529-c845-42ab-b8aa-837ee1ebcd04/image.png" width="140" alt="AWS Educate Badge" />
+      </a>
+      <br/>
+      <sub><b>AWS Educate Certified</b></sub>
+      <br/>
+      <sub>
+        <a href="https://www.credly.com/badges/431c0529-c845-42ab-b8aa-837ee1ebcd04/public_url">
+          <img src="https://img.shields.io/badge/Verify-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Verify Badge"/>
+        </a>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ## ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-121212.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -95,4 +119,3 @@ To continue building and deploying real-world solutions that solve practical pro
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Ahmed-Abubakar&icon=0&color=12)](https://visitcount.itsvg.in)
-
